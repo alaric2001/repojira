@@ -1,0 +1,10 @@
+error writing "stdout": broken pipe
+error writing "stdout": broken pipe
+    while executing
+"puts $::answer"
+    (procedure "finish" line 14)
+    invoked from within
+"finish"
+    invoked from within
+".b.ok invoke"
+    (command bound to event)
